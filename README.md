@@ -1,2 +1,2 @@
 # RAG_Chatbot
-openmate.ai
+OpenMate.Ai
